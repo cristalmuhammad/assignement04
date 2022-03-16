@@ -17,21 +17,22 @@
 // percentOf(20, 100);
 
 //STEP 4
-
 // function findModulus(num1, num2){
 //    console.log(`${num2%num1} is the modulus of ${num1} & ${num2} `);
 // }
 // findModulus(7,38 )
 
 //STEP 5
-// This returns Hello Cristal Muhammad
-// function greet(name, lastName) { 
-//     console.log('Hello '  + name + ' ' + lastName);
-//     }
-//     greet('Cristal', 'Muhammad') 
 
-// function showYear() {
-//     const today = new Date();
-//     alert ( 'The year is' + today.getFullYear() );
+// let numberOne = Number(prompt('Pick a number'));
+// let numberTwo = Number(prompt('Pick a 2nd number'));
+// let numberThree = Number(prompt('Pick a 3rd number'));
+
+// function calculate()
+//          { 
+//         let base = 0
+//          for (let i = 0; i < arguments.length; i++) 
+//      base += Number(arguments[i]) 
 // }
-// showYear();
+// calculate(numberOne, numberTwo, numberThree)
+
